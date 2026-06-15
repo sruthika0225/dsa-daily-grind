@@ -25,7 +25,7 @@ than the one-pass approach (since the map is fully built before checking),
 but still O(n) overall and easier to reason about.
 
 ## Code
-\`\`\`python
+```python
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         total_nums = len(nums)
@@ -37,4 +37,4 @@ class Solution:
             rem = target - nums[itr]
             if rem in pos and pos[rem] != itr:
                 return [itr, pos[rem]]
-\`\`\`
+```
