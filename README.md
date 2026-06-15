@@ -1,4 +1,4 @@
-# DSA Daily grid - DSA Practice
+# DSA Daily Grind - DSA Practice
 
 Tracking my daily problem-solving journey.
 
