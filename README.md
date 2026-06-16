@@ -5,3 +5,4 @@ Tracking my daily problem-solving journey.
 | Day | Problem | Difficulty | Topic | Link |
 |-----|---------|------------|-------|------|
 | 1 | Two Sum | Easy | Array | [day-01.md](day-01.md) |
+| 2 | Two Sum II | Easy | Array | [day-02.md](day-02.md) |
