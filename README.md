@@ -10,3 +10,4 @@ Tracking my daily problem-solving journey.
 |4	|Kth smallest element	|Easy	| Array / Sorting	| [day-04.md](day-04.md) |
 |5	|Best time to Buy and Sell Stock	|Easy	| Array	| [day-05.md](day-05.md) |
 |6	|Merge Two Sorted Lists	|Easy	| Linked List/ Two Pointers	| [day-06.md](day-06.md) |
+|7	|Remove Duplicates from sorted list |Easy	| Array / Two Pointers	| [day-07.md](day-07.md) |
