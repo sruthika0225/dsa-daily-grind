@@ -11,3 +11,4 @@ Tracking my daily problem-solving journey.
 |5	|Best time to Buy and Sell Stock	|Easy	| Array	| [day-05.md](day-05.md) |
 |6	|Merge Two Sorted Lists	|Easy	| Linked List/ Two Pointers	| [day-06.md](day-06.md) |
 |7	|Remove Duplicates from sorted list |Easy	| Array / Two Pointers	| [day-07.md](day-07.md) |
+| 8 | Remove Element | Easy | Array / Two Pointers | [day-08.md](day-08.md) |
