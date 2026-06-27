@@ -12,3 +12,4 @@ Tracking my daily problem-solving journey.
 |6	|Merge Two Sorted Lists	|Easy	| Linked List/ Two Pointers	| [day-06.md](day-06.md) |
 |7	|Remove Duplicates from sorted list |Easy	| Array / Two Pointers	| [day-07.md](day-07.md) |
 | 8 | Remove Element | Easy | Array / Two Pointers | [day-08.md](day-08.md) |
+| 9 | Longest Common Prefix | Easy | String / Iteration | [day-09.md](day-09.md) |
