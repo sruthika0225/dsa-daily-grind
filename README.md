@@ -14,3 +14,4 @@ Tracking my daily problem-solving journey.
 | 8 | Remove Element | Easy | Array / Two Pointers | [day-08.md](day-08.md) |
 | 9 | Longest Common Prefix | Easy | String / Iteration | [day-09.md](day-09.md) |
 | 10 | Valid Parentheses | Easy | Stack | [day-10.md](day-10.md) |
+| 11 | Add Binary | Easy | String / Bit Manipulation | [day-11.md](day-11.md) |
