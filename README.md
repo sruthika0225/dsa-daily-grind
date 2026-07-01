@@ -15,3 +15,4 @@ Tracking my daily problem-solving journey.
 | 9 | Longest Common Prefix | Easy | String / Iteration | [day-09.md](day-09.md) |
 | 10 | Valid Parentheses | Easy | Stack | [day-10.md](day-10.md) |
 | 11 | Add Binary | Easy | String / Bit Manipulation | [day-11.md](day-11.md) |
+| 12 | Climbing Stairs | Easy | Dynamic Programming / Recursion | [day-12.md](day-12.md) |
